@@ -1,0 +1,67 @@
+body{
+    text-align: center;
+}
+
+.top-container{
+position: relative;
+text-align: center;
+}
+
+.heading{
+  position: absolute;
+  top: 5%;
+  bottom: 90%;
+  color: white;
+  left:55%;
+  font-size: 2.5rem;
+  text-shadow: 2px 2px 4px #000000;
+font-family:'Sacramento', cursive;
+}
+.description{
+ position: absolute;
+ top: 47%;
+ left:65%;
+ font-size: 1rem;
+ text-shadow: 2px 2px 4px #000000;
+ font-family: cursive;
+ color: white;
+
+
+}
+
+.form{
+  position: absolute;
+  text-shadow: 2px 2px 4px #000000;
+  top: 60%;
+  bottom: 90%;
+  left: 68%;
+}
+.f{
+  color: white;
+}
+.d{
+  position: absolute;
+  top: 52%;
+  left:70%;
+  color: white;
+  font-size: .8rem;
+  font-style: italic;
+  text-shadow: 2px 2px 4px #000000;
+}
+.middle{
+
+  padding-top: 50px;
+  padding-bottom: 20px;
+}
+
+.contact{
+  padding-bottom: 30px;
+  padding-top: 30px;
+}
+
+.bottom-container{
+
+  background-color:  #4D4C7D;
+  padding-top: 50px;
+  padding-bottom: 10px;
+}
